@@ -22,9 +22,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewsa&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arewsa&layout=compact&theme=default&hide_border=true)
+<a href="https://github.com/arewsa">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arewsa&theme=github"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arewsa&theme=github"/>
+</a>
 
 </div>
 
