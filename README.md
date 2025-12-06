@@ -20,9 +20,13 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arewsa&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arewsa&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
